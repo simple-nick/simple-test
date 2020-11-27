@@ -2,5 +2,5 @@ import random
 
 
 def pickmeplz(lst):
-    plz = random.choice(lst)
-    return plz
+    output = random.choice(lst)
+    return output
