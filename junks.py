@@ -19,4 +19,6 @@ def bugmeplz(text):
     playsound.playsound(r'sounds/error.wav')
     raise Exception(text)
 
-bugmeplz('Buhahahahha !')
+
+def passmeplz():
+    pass
