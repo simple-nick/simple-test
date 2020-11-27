@@ -11,3 +11,7 @@ def intmeplz(integer):
         except ValueError:
             return print('Wrong format!')
     print(integer)
+
+
+def bugmeplz(text):
+    raise Exception(text)
