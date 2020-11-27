@@ -1,6 +1,7 @@
 import random
 
 
-def pickmeplz(lst):
+def pickmepls(lst):
     output = random.choice(lst)
     return output
+
